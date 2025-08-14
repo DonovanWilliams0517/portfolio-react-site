@@ -1,6 +1,6 @@
 # My Frontend Developer Portfolio
 
-**Live Site:** [https://donovan-portfolio.netlify.app](https://donovan-portfolio.netlify.app)
+**Live Site:** [https://donovan-react-portfolio.netlify.app](https://donovan-react-portfolio.netlify.app/contact)
 
 This is my personal portfolio website built with **React** and **Vite** used to showcases my projects, and skills.
 
