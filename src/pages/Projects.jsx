@@ -6,21 +6,7 @@ const projects = [
         description: "A responsive app that fetches real-time weather data using the OpenWeather API.",
         tech: ["HTML", "CSS", "JavaScript", "API"],
         github: "https://github.com/DonovanWilliams0517/weather-app",
-        demo: "#"
-    },
-    {
-        title: "Developer Card Filter",
-        description: "Search and filter developers based on name or skill with real-time DOM manipulation.",
-        tech: ["HTML", "CSS", "JavaScript"],
-        github: "https://github.com/DonovanWilliams0517/dev-directory.git",
-        demo: "#",
-    },
-    {
-        title: "Quote Generator",
-        description: "A simple web app that displays a random quote with the click of a button",
-        tech: ["HTML", "CSS", "JavaScript"],
-        github: "https://github.com/DonovanWilliams0517/quote-generator",
-        demo: "#",
+        demo: "https://grabanumbrella.netlify.app/"
     },
 
     {
@@ -28,6 +14,22 @@ const projects = [
         description: "Create a todo list. Filter between completed and active task and save task locally.",
         tech: ["HTML", "CSS", "JavaScript", "API"],
         github: "https://github.com/DonovanWilliams0517/todo-app",
+        demo: "https://taskbytask.netlify.app/",
+    },
+
+    {
+        title: "Developer Card Filter",
+        description: "Search and filter developers based on name or skill with real-time DOM manipulation.",
+        tech: ["HTML", "CSS", "JavaScript"],
+        github: "https://github.com/DonovanWilliams0517/dev-directory.git",
+        demo: "#",
+    },
+
+    {
+        title: "Quote Generator",
+        description: "A simple web app that displays a random quote with the click of a button",
+        tech: ["HTML", "CSS", "JavaScript"],
+        github: "https://github.com/DonovanWilliams0517/quote-generator",
         demo: "#",
     }
 ]
@@ -62,4 +64,5 @@ function Projects() {
 }
 
 export default Projects
+
   
